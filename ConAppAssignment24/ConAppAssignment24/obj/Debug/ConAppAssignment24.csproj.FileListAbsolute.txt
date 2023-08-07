@@ -1,0 +1,6 @@
+C:\DotNet\Assignment-24\ConAppAssignment24\ConAppAssignment24\bin\Debug\ConAppAssignment24.dll
+C:\DotNet\Assignment-24\ConAppAssignment24\ConAppAssignment24\bin\Debug\ConAppAssignment24.pdb
+C:\DotNet\Assignment-24\ConAppAssignment24\ConAppAssignment24\obj\Debug\ConAppAssignment24.csproj.AssemblyReference.cache
+C:\DotNet\Assignment-24\ConAppAssignment24\ConAppAssignment24\obj\Debug\ConAppAssignment24.csproj.CoreCompileInputs.cache
+C:\DotNet\Assignment-24\ConAppAssignment24\ConAppAssignment24\obj\Debug\ConAppAssignment24.dll
+C:\DotNet\Assignment-24\ConAppAssignment24\ConAppAssignment24\obj\Debug\ConAppAssignment24.pdb

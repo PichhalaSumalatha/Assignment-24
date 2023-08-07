@@ -1,0 +1,11 @@
+C:\DotNet\Assignment-24\ConAppAssignment24_Main\ConAppAssignment24_Main\bin\Debug\ConAppAssignment24_Main.exe.config
+C:\DotNet\Assignment-24\ConAppAssignment24_Main\ConAppAssignment24_Main\bin\Debug\ConAppAssignment24_Main.exe
+C:\DotNet\Assignment-24\ConAppAssignment24_Main\ConAppAssignment24_Main\bin\Debug\ConAppAssignment24_Main.pdb
+C:\DotNet\Assignment-24\ConAppAssignment24_Main\ConAppAssignment24_Main\bin\Debug\ConAppAssignment24.dll
+C:\DotNet\Assignment-24\ConAppAssignment24_Main\ConAppAssignment24_Main\bin\Debug\ConAppAssignment24.pdb
+C:\DotNet\Assignment-24\ConAppAssignment24_Main\ConAppAssignment24_Main\obj\Debug\ConAppAssignment24_Main.csproj.AssemblyReference.cache
+C:\DotNet\Assignment-24\ConAppAssignment24_Main\ConAppAssignment24_Main\obj\Debug\ConAppAssignment24_Main.csproj.SuggestedBindingRedirects.cache
+C:\DotNet\Assignment-24\ConAppAssignment24_Main\ConAppAssignment24_Main\obj\Debug\ConAppAssignment24_Main.csproj.CoreCompileInputs.cache
+C:\DotNet\Assignment-24\ConAppAssignment24_Main\ConAppAssignment24_Main\obj\Debug\ConAppAssignment24_Main.csproj.CopyComplete
+C:\DotNet\Assignment-24\ConAppAssignment24_Main\ConAppAssignment24_Main\obj\Debug\ConAppAssignment24_Main.exe
+C:\DotNet\Assignment-24\ConAppAssignment24_Main\ConAppAssignment24_Main\obj\Debug\ConAppAssignment24_Main.pdb
